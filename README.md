@@ -1,6 +1,6 @@
 - 👋 Bok, ja sam Bruno Polančec!
 - 📚 Student sam _Prirodoslovno-matematičkog fakulteta_ u Zagrebu. Na matematičkom odjseku pohađam diplomski studij _Računarstvo i matematika_
-- 📫 Moj kontakt: službeni mail fakulteta: brunpola.math@pmf.hr, osobni mail:  bruno.polancec7@gmail.com
+- 📫 Moj kontakt: osobni mail:  bruno.polancec7@gmail.com, službeni mail fakulteta: brunpola.math@pmf.hr
   
 
  
